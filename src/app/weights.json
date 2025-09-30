@@ -1,0 +1,6 @@
+{
+  "flood": 0.3,
+  "air": 0.25,
+  "wildfire": 0.25,
+  "weather": 0.2
+}

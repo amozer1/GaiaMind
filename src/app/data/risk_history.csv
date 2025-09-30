@@ -1,0 +1,27 @@
+region,flood_score,air_score,wildfire_score,news_score,risk_index,explanation,timestamp
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:54:01.049149
+air_air_quality,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:54:01.049149
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T02:54:01.049149
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:54:02.826615
+air_air_quality,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:54:02.826615
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T02:54:02.826615
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:56:11.342519
+air_air_quality,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:56:11.342519
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T02:56:11.342519
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:56:11.536955
+air_air_quality,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:56:11.536955
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T02:56:11.536955
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:58:11.885147
+air_air_quality,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:58:11.885147
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T02:58:11.885147
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:58:12.070399
+air_air_quality,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T02:58:12.070399
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T02:58:12.070399
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T03:00:13.946963
+river_levels,50.0,0.0,0.0,0.0,15.0,Auto-generated composite score,2025-09-13T03:00:13.946963
+daily_aqi_by_cbsa_2025,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T03:00:13.946963
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T03:00:13.946963
+sample_region,0.0,0.0,50.0,0.0,12.5,Auto-generated composite score,2025-09-13T03:00:14.779150
+river_levels,50.0,0.0,0.0,0.0,15.0,Auto-generated composite score,2025-09-13T03:00:14.779150
+daily_aqi_by_cbsa_2025,0.0,50.0,0.0,0.0,12.5,Auto-generated composite score,2025-09-13T03:00:14.779150
+sample_news,0.0,0.0,0.0,50.0,10.0,Auto-generated composite score,2025-09-13T03:00:14.779150
